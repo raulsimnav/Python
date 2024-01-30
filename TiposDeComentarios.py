@@ -1,0 +1,8 @@
+print("Comentarios")
+
+#! ALERTA/PRECAUCION
+# *INFORMACIÓN IMPORTANTE
+# ? DUDA
+# TODO SE REFIERE A TODO
+
+

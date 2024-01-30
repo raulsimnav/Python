@@ -1,0 +1,6 @@
+print("Hola, ¿como te llamas?")
+nombre = input()
+print("Me alegro de que estés esforzándote al máximo", nombre)
+print("----------------------------------------------------------------")
+edad = input("¿Cuantos años tienes?")
+print("Tienes:",edad)

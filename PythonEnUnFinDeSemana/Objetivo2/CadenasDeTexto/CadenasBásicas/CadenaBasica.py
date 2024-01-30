@@ -1,0 +1,2 @@
+cadenaejemplo = ("Hola")
+print(cadenaejemplo)
